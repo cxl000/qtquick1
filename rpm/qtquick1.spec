@@ -1,6 +1,6 @@
 Name:       qt5-qtquick1
 Summary:    Qt Quick 1
-Version:    5.0.2
+Version:    5.2.0
 Release:    1%{?dist}
 Group:      Qt/Qt
 License:    LGPLv2.1 with exception or GPLv3
@@ -95,6 +95,7 @@ rm -rf %{buildroot}/%{_includedir}/qt5/Qt
 %{_libdir}/cmake/
 %{_libdir}/pkgconfig/Qt5Declarative.pc
 %{_datadir}/qt5/mkspecs/modules/qt_lib_declarative.pri
+%{_datadir}/qt5/mkspecs/modules/qt_lib_declarative_private.pri
 
 
 
