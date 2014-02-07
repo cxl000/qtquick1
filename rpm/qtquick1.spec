@@ -1,6 +1,6 @@
 Name:       qt5-qtquick1
 Summary:    Qt Quick 1
-Version:    5.2.0
+Version:    5.2.1
 Release:    1%{?dist}
 Group:      Qt/Qt
 License:    LGPLv2.1 with exception or GPLv3
